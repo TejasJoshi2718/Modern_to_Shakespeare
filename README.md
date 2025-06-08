@@ -21,8 +21,7 @@ Whether you're a fan of the Bard or just curious about NLP style transfer, this 
 ## 🛠️ Tech Stack  
 - Python  
 - TensorFlow  
-- NumPy  
-- NLTK / custom tokenization (if applicable)
+- NumPy
 
 ## 📊 Results  
 Achieved stylistic translation accuracy sufficient to produce fluent, Shakespearean-styled responses to modern inputs. Output creativity and accuracy may vary depending on training data quality and size.
