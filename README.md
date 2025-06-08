@@ -23,8 +23,8 @@ Whether you're a fan of the Bard or just curious about NLP style transfer, this 
 - TensorFlow  
 - NumPy
 
-## 📊 Results  
-Achieved stylistic translation accuracy sufficient to produce fluent, Shakespearean-styled responses to modern inputs. Output creativity and accuracy may vary depending on training data quality and size.
+## How to use:
+Just open the given notebook in a notebook hoster. Run the cells one after the another and you are done!!
 
 ## 🧪 Future Work  
 - Integrate attention mechanism for improved fluency  
