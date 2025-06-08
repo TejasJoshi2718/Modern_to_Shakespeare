@@ -25,6 +25,8 @@ Whether you're a fan of the Bard or just curious about NLP style transfer, this 
 
 ## How to use:
 Just open the given notebook in a notebook hoster. Run the cells one after the another and you are done!!
+Note: Don't forget to download the dataset given in the csv format(Shakespeare.csv)!!!
+
 
 ## 🧪 Future Work  
 - Integrate attention mechanism for improved fluency  
